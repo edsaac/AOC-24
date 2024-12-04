@@ -48,5 +48,5 @@ if __name__ == "__main__":
         memory = f.readlines()
         memory = "".join(memory)
 
-    # part_01()
+    part_01()
     part_02()
