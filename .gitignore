@@ -163,4 +163,5 @@ cython_debug/
 
 input.txt
 test.txt
+output.txt
 .vscode
