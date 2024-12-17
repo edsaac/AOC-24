@@ -165,3 +165,5 @@ input.txt
 test.txt
 output.txt
 .vscode
+frames
+frames/** */
